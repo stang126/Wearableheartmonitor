@@ -1,4 +1,5 @@
 ---
+category: Solutions
 title: 'Current & Proposed Solutions'
 
 layout: null
