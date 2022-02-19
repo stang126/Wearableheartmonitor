@@ -3,4 +3,4 @@ exclude: ['README.markdown']
 permalink: ':title'
 highlighter: pygments
 safe: false
-title: 'Wearable Heart Rate Monitor'
+title: 'ECE 196: Wearable Heart Rate Monitor'
