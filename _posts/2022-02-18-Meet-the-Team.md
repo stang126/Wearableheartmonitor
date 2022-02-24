@@ -14,6 +14,9 @@ Fourth year bioengineering major.
 
 
 ### Alice Tor
+
+<img src="https://user-images.githubusercontent.com/83781248/155611269-4ae0adf9-93a3-4dcf-9409-60a6d0297268.jpg" height="200"/>
+
 Fourth year biosystems major.
 
 ### Sana Khan
