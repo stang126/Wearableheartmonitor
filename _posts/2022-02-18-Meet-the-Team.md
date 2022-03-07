@@ -4,7 +4,7 @@ title: 'Meet the Team'
 layout: null
 ---
 
-# Team Eee See Gee Members
+# Team Poor Circuit-lation Members
 
 ### Serena Tang
 
