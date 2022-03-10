@@ -36,9 +36,9 @@ Photoplethysmography (PPG) Arduino nano shield schematic.
 
 # Drawings
 
-<img src="https://user-images.githubusercontent.com/83781248/157573927-628a098f-eab7-4663-80e0-1e8a7160b013.png" height="300"/> 
-<img src="https://user-images.githubusercontent.com/83781248/157573936-b47063f1-29e3-4b76-8fb5-bd46553d01f1.png" height="300"/>
+<img src="https://user-images.githubusercontent.com/83781248/157573927-628a098f-eab7-4663-80e0-1e8a7160b013.png" height="200"/> 
+<img src="https://user-images.githubusercontent.com/83781248/157573936-b47063f1-29e3-4b76-8fb5-bd46553d01f1.png" height="200"/>
 <img src="https://user-images.githubusercontent.com/83781248/157573949-8b4cc6ab-b0a7-4ee4-b813-5a8997f7a678.png" height="300"/>
-<img src="https://user-images.githubusercontent.com/83781248/157573942-d5d1e879-5ec1-4a38-8faf-b7a3715b467d.png" height="300"/>
+<img src="https://user-images.githubusercontent.com/83781248/157573942-d5d1e879-5ec1-4a38-8faf-b7a3715b467d.png" height="200"/>
 
 PCB case inspired by Hello Kitty; case does not show watch straps. While the outer cover shows Hello Kitty, the cover can be opened to show the OLED screen, which displays the heart rate. The Arduino Nano and its components are housed inside the case and the opening on the bottom allows for the phototransistor to be in contact with the wrist. 
