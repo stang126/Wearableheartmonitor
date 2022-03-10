@@ -6,9 +6,8 @@ layout: null
 
 
 # Project Video
-<p><iframe src="https://drive.google.com/file/d/1CbcVmS6extmsqHyZ86vjuVejA9_HxyeR/view?usp=sharing" mozallowfullscreen="true" ></iframe></p>
-  
 
+<p><iframe src="https://drive.google.com/file/d/1CbcVmS6extmsqHyZ86vjuVejA9_HxyeR/preview" width="640" height="480" allow="autoplay"></iframe></p>
 
 # Final Presentation Slide Deck
 
