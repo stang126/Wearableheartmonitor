@@ -7,11 +7,6 @@ layout: null
 # Project photos
 
 
-<img src="https://user-images.githubusercontent.com/83781248/156962487-7aa4cfd7-0b27-4b38-b2f3-979d6329a24d.jpg" height="300"/>
-
-Above is a photo of a preliminary version of our PPG circuit, which includes an Arduino Nano and a TCRT1000 phototransistor. 
-
-
 <img src="https://user-images.githubusercontent.com/83781248/156962481-cbb85b94-b523-494a-97aa-f605ff324b7f.png" height="300"/>
 
 Above is a photo the Arduino interface which shows a PPG signal. From this signal, we will be able to extract a heart rate and display it on an OLED screen. 
@@ -26,6 +21,9 @@ Above is a preliminary version of our PPG case without any straps.
 
 Above are photos of our working PPG cricuit on a breadboard with a heartrate being displayed when a finger is on the phototransistor. 
 
+<img src="https://user-images.githubusercontent.com/83781248/157575184-98126190-f7a1-4136-813e-859cb238eff5.png" height="300"/>
+
+Above is a photo of our PPG circuit inside its case. The OLED screen is also shown under the top of the case. 
 
 
 # Schematics
@@ -38,7 +36,7 @@ Photoplethysmography (PPG) Arduino nano shield schematic.
 
 <img src="https://user-images.githubusercontent.com/83781248/157573927-628a098f-eab7-4663-80e0-1e8a7160b013.png" height="200"/> 
 <img src="https://user-images.githubusercontent.com/83781248/157573936-b47063f1-29e3-4b76-8fb5-bd46553d01f1.png" height="200"/>
-<img src="https://user-images.githubusercontent.com/83781248/157573949-8b4cc6ab-b0a7-4ee4-b813-5a8997f7a678.png" height="300"/>
+<img src="https://user-images.githubusercontent.com/83781248/157573949-8b4cc6ab-b0a7-4ee4-b813-5a8997f7a678.png" height="200"/>
 <img src="https://user-images.githubusercontent.com/83781248/157573942-d5d1e879-5ec1-4a38-8faf-b7a3715b467d.png" height="200"/>
 
 PCB case inspired by Hello Kitty; case does not show watch straps. While the outer cover shows Hello Kitty, the cover can be opened to show the OLED screen, which displays the heart rate. The Arduino Nano and its components are housed inside the case and the opening on the bottom allows for the phototransistor to be in contact with the wrist. 
